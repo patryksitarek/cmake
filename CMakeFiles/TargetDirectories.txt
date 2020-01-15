@@ -1,0 +1,3 @@
+/home/sitar/laborki_git/cmake/CMakeFiles/rebuild_cache.dir
+/home/sitar/laborki_git/cmake/CMakeFiles/GotowyProgram.dir
+/home/sitar/laborki_git/cmake/CMakeFiles/edit_cache.dir

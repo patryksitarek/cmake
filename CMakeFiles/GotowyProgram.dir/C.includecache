@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sitar/laborki_git/cmake/src/hw_power.c
+stdio.h
+-
+math.h
+-
+hw_defs.h
+/home/sitar/laborki_git/cmake/src/hw_defs.h
+
+include/hw_defs.h
+

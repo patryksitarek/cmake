@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/GotowyProgram.dir/src/hw_hello.c.o CMakeFiles/GotowyProgram.dir/src/hw_main.c.o CMakeFiles/GotowyProgram.dir/src/hw_power.c.o  -o GotowyProgram 
